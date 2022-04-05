@@ -12,7 +12,7 @@
 
 static const adc_channel_t channel = ADC1_CHANNEL_6;
 static const adc_bits_width_t width = ADC_WIDTH_BIT_12;
-static const adc_atten_t atten = ADC_ATTEN_0db; //Luego de lograr que los valores del sensor oscilaran entre esos datos
+static const adc_atten_t atten = ADC_ATTEN_0db; //Luego de lograr que los valores del sensor oscilaran entre el limite para dicha att
 static const adc_unit_t unit = ADC_UNIT_1;
 
 void app_main(void)
