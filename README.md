@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # _Sample project_
 
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
@@ -30,3 +31,7 @@ Below is short explanation of remaining files in the project folder.
 ```
 Additionally, the sample project contains Makefile and component.mk files, used for the legacy Make based build system. 
 They are not used or needed when building with CMake and idf.py.
+=======
+# ADC_ESP32
+Probando la lectura del ADC para un sensor capacitivo de humedad del suelo
+>>>>>>> 1dac09311518f0ed15cb1a565008aa69f70ab5f1
